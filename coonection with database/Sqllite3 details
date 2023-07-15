@@ -1,0 +1,6 @@
+SQLite is a C library that is commonly used with Python. 
+Python provides a built-in module called sqlite3 that serves as an interface to the SQLite database engine. 
+The sqlite3 module allows Python programs to interact with SQLite databases using a set of convenient functions and classes.
+The sqlite3 module is part of the Python Standard Library, which means it comes bundled with Python and does not require any additional installation steps.
+It provides a high-level API that simplifies working with SQLite databases, allowing you to create, connect to, query, and modify databases using Python code.
+The sqlite3 module in Python supports most of the standard SQL functionality, such as executing SQL statements, parameterized queries, transaction management, and working with result sets.
